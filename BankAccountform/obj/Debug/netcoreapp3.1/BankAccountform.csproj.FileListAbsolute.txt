@@ -1,0 +1,15 @@
+C:\Users\akash singh\source\repos\BankAccountform\bin\Debug\netcoreapp3.1\BankAccountform.exe
+C:\Users\akash singh\source\repos\BankAccountform\bin\Debug\netcoreapp3.1\BankAccountform.deps.json
+C:\Users\akash singh\source\repos\BankAccountform\bin\Debug\netcoreapp3.1\BankAccountform.runtimeconfig.json
+C:\Users\akash singh\source\repos\BankAccountform\bin\Debug\netcoreapp3.1\BankAccountform.runtimeconfig.dev.json
+C:\Users\akash singh\source\repos\BankAccountform\bin\Debug\netcoreapp3.1\BankAccountform.dll
+C:\Users\akash singh\source\repos\BankAccountform\bin\Debug\netcoreapp3.1\BankAccountform.pdb
+C:\Users\akash singh\source\repos\BankAccountform\obj\Debug\netcoreapp3.1\BankAccountform.csprojAssemblyReference.cache
+C:\Users\akash singh\source\repos\BankAccountform\obj\Debug\netcoreapp3.1\BankAccountform.Form1.resources
+C:\Users\akash singh\source\repos\BankAccountform\obj\Debug\netcoreapp3.1\BankAccountform.csproj.GenerateResource.cache
+C:\Users\akash singh\source\repos\BankAccountform\obj\Debug\netcoreapp3.1\BankAccountform.AssemblyInfoInputs.cache
+C:\Users\akash singh\source\repos\BankAccountform\obj\Debug\netcoreapp3.1\BankAccountform.AssemblyInfo.cs
+C:\Users\akash singh\source\repos\BankAccountform\obj\Debug\netcoreapp3.1\BankAccountform.csproj.CoreCompileInputs.cache
+C:\Users\akash singh\source\repos\BankAccountform\obj\Debug\netcoreapp3.1\BankAccountform.dll
+C:\Users\akash singh\source\repos\BankAccountform\obj\Debug\netcoreapp3.1\BankAccountform.pdb
+C:\Users\akash singh\source\repos\BankAccountform\obj\Debug\netcoreapp3.1\BankAccountform.genruntimeconfig.cache

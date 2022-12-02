@@ -1,0 +1,6 @@
+C:\Users\akash singh\source\repos\EditorDemo\obj\Debug\netcoreapp3.1\EditorDemo.csprojAssemblyReference.cache
+C:\Users\akash singh\source\repos\EditorDemo\obj\Debug\netcoreapp3.1\EditorDemo.Form1.resources
+C:\Users\akash singh\source\repos\EditorDemo\obj\Debug\netcoreapp3.1\EditorDemo.csproj.GenerateResource.cache
+C:\Users\akash singh\source\repos\EditorDemo\obj\Debug\netcoreapp3.1\EditorDemo.AssemblyInfoInputs.cache
+C:\Users\akash singh\source\repos\EditorDemo\obj\Debug\netcoreapp3.1\EditorDemo.AssemblyInfo.cs
+C:\Users\akash singh\source\repos\EditorDemo\obj\Debug\netcoreapp3.1\EditorDemo.csproj.CoreCompileInputs.cache

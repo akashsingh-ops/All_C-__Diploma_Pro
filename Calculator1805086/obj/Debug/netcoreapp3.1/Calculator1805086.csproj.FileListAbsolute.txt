@@ -1,0 +1,31 @@
+C:\Users\akash singh\source\repos\Calculator1805086\bin\Debug\netcoreapp3.1\Calculator1805086.exe
+C:\Users\akash singh\source\repos\Calculator1805086\bin\Debug\netcoreapp3.1\Calculator1805086.deps.json
+C:\Users\akash singh\source\repos\Calculator1805086\bin\Debug\netcoreapp3.1\Calculator1805086.runtimeconfig.json
+C:\Users\akash singh\source\repos\Calculator1805086\bin\Debug\netcoreapp3.1\Calculator1805086.runtimeconfig.dev.json
+C:\Users\akash singh\source\repos\Calculator1805086\bin\Debug\netcoreapp3.1\Calculator1805086.dll
+C:\Users\akash singh\source\repos\Calculator1805086\bin\Debug\netcoreapp3.1\Calculator1805086.pdb
+C:\Users\akash singh\source\repos\Calculator1805086\obj\Debug\netcoreapp3.1\Calculator1805086.csprojAssemblyReference.cache
+C:\Users\akash singh\source\repos\Calculator1805086\obj\Debug\netcoreapp3.1\Calculator1805086.Form1.resources
+C:\Users\akash singh\source\repos\Calculator1805086\obj\Debug\netcoreapp3.1\Calculator1805086.csproj.GenerateResource.cache
+C:\Users\akash singh\source\repos\Calculator1805086\obj\Debug\netcoreapp3.1\Calculator1805086.AssemblyInfoInputs.cache
+C:\Users\akash singh\source\repos\Calculator1805086\obj\Debug\netcoreapp3.1\Calculator1805086.AssemblyInfo.cs
+C:\Users\akash singh\source\repos\Calculator1805086\obj\Debug\netcoreapp3.1\Calculator1805086.csproj.CoreCompileInputs.cache
+C:\Users\akash singh\source\repos\Calculator1805086\obj\Debug\netcoreapp3.1\Calculator1805086.dll
+C:\Users\akash singh\source\repos\Calculator1805086\obj\Debug\netcoreapp3.1\Calculator1805086.pdb
+C:\Users\akash singh\source\repos\Calculator1805086\obj\Debug\netcoreapp3.1\Calculator1805086.genruntimeconfig.cache
+C:\Users\dell\source\source\repos\Calculator1805086\bin\Debug\netcoreapp3.1\Calculator1805086.exe
+C:\Users\dell\source\source\repos\Calculator1805086\bin\Debug\netcoreapp3.1\Calculator1805086.deps.json
+C:\Users\dell\source\source\repos\Calculator1805086\bin\Debug\netcoreapp3.1\Calculator1805086.runtimeconfig.json
+C:\Users\dell\source\source\repos\Calculator1805086\bin\Debug\netcoreapp3.1\Calculator1805086.runtimeconfig.dev.json
+C:\Users\dell\source\source\repos\Calculator1805086\bin\Debug\netcoreapp3.1\Calculator1805086.dll
+C:\Users\dell\source\source\repos\Calculator1805086\bin\Debug\netcoreapp3.1\Calculator1805086.pdb
+C:\Users\dell\source\source\repos\Calculator1805086\obj\Debug\netcoreapp3.1\Calculator1805086.csproj.AssemblyReference.cache
+C:\Users\dell\source\source\repos\Calculator1805086\obj\Debug\netcoreapp3.1\Calculator1805086.Form1.resources
+C:\Users\dell\source\source\repos\Calculator1805086\obj\Debug\netcoreapp3.1\Calculator1805086.csproj.GenerateResource.cache
+C:\Users\dell\source\source\repos\Calculator1805086\obj\Debug\netcoreapp3.1\Calculator1805086.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\source\repos\Calculator1805086\obj\Debug\netcoreapp3.1\Calculator1805086.AssemblyInfoInputs.cache
+C:\Users\dell\source\source\repos\Calculator1805086\obj\Debug\netcoreapp3.1\Calculator1805086.AssemblyInfo.cs
+C:\Users\dell\source\source\repos\Calculator1805086\obj\Debug\netcoreapp3.1\Calculator1805086.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\source\repos\Calculator1805086\obj\Debug\netcoreapp3.1\Calculator1805086.dll
+C:\Users\dell\source\source\repos\Calculator1805086\obj\Debug\netcoreapp3.1\Calculator1805086.pdb
+C:\Users\dell\source\source\repos\Calculator1805086\obj\Debug\netcoreapp3.1\Calculator1805086.genruntimeconfig.cache

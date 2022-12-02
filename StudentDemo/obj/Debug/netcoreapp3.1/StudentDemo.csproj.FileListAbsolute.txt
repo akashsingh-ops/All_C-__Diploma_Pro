@@ -1,0 +1,13 @@
+C:\Users\akash singh\source\repos\StudentDemo\obj\Debug\netcoreapp3.1\StudentDemo.csprojAssemblyReference.cache
+C:\Users\akash singh\source\repos\StudentDemo\obj\Debug\netcoreapp3.1\StudentDemo.AssemblyInfoInputs.cache
+C:\Users\akash singh\source\repos\StudentDemo\obj\Debug\netcoreapp3.1\StudentDemo.AssemblyInfo.cs
+C:\Users\akash singh\source\repos\StudentDemo\obj\Debug\netcoreapp3.1\StudentDemo.csproj.CoreCompileInputs.cache
+C:\Users\akash singh\source\repos\StudentDemo\bin\Debug\netcoreapp3.1\StudentDemo.exe
+C:\Users\akash singh\source\repos\StudentDemo\bin\Debug\netcoreapp3.1\StudentDemo.deps.json
+C:\Users\akash singh\source\repos\StudentDemo\bin\Debug\netcoreapp3.1\StudentDemo.runtimeconfig.json
+C:\Users\akash singh\source\repos\StudentDemo\bin\Debug\netcoreapp3.1\StudentDemo.runtimeconfig.dev.json
+C:\Users\akash singh\source\repos\StudentDemo\bin\Debug\netcoreapp3.1\StudentDemo.dll
+C:\Users\akash singh\source\repos\StudentDemo\bin\Debug\netcoreapp3.1\StudentDemo.pdb
+C:\Users\akash singh\source\repos\StudentDemo\obj\Debug\netcoreapp3.1\StudentDemo.dll
+C:\Users\akash singh\source\repos\StudentDemo\obj\Debug\netcoreapp3.1\StudentDemo.pdb
+C:\Users\akash singh\source\repos\StudentDemo\obj\Debug\netcoreapp3.1\StudentDemo.genruntimeconfig.cache

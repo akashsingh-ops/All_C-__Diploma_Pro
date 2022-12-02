@@ -1,0 +1,15 @@
+C:\Users\akash singh\source\repos\Project1\bin\Debug\netcoreapp3.1\Project1.exe
+C:\Users\akash singh\source\repos\Project1\bin\Debug\netcoreapp3.1\Project1.deps.json
+C:\Users\akash singh\source\repos\Project1\bin\Debug\netcoreapp3.1\Project1.runtimeconfig.json
+C:\Users\akash singh\source\repos\Project1\bin\Debug\netcoreapp3.1\Project1.runtimeconfig.dev.json
+C:\Users\akash singh\source\repos\Project1\bin\Debug\netcoreapp3.1\Project1.dll
+C:\Users\akash singh\source\repos\Project1\bin\Debug\netcoreapp3.1\Project1.pdb
+C:\Users\akash singh\source\repos\Project1\obj\Debug\netcoreapp3.1\Project1.csprojAssemblyReference.cache
+C:\Users\akash singh\source\repos\Project1\obj\Debug\netcoreapp3.1\Project1.Form1.resources
+C:\Users\akash singh\source\repos\Project1\obj\Debug\netcoreapp3.1\Project1.csproj.GenerateResource.cache
+C:\Users\akash singh\source\repos\Project1\obj\Debug\netcoreapp3.1\Project1.AssemblyInfoInputs.cache
+C:\Users\akash singh\source\repos\Project1\obj\Debug\netcoreapp3.1\Project1.AssemblyInfo.cs
+C:\Users\akash singh\source\repos\Project1\obj\Debug\netcoreapp3.1\Project1.csproj.CoreCompileInputs.cache
+C:\Users\akash singh\source\repos\Project1\obj\Debug\netcoreapp3.1\Project1.dll
+C:\Users\akash singh\source\repos\Project1\obj\Debug\netcoreapp3.1\Project1.pdb
+C:\Users\akash singh\source\repos\Project1\obj\Debug\netcoreapp3.1\Project1.genruntimeconfig.cache

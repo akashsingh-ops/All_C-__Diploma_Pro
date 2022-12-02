@@ -1,0 +1,15 @@
+C:\Users\akash singh\source\repos\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.exe
+C:\Users\akash singh\source\repos\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.deps.json
+C:\Users\akash singh\source\repos\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.runtimeconfig.json
+C:\Users\akash singh\source\repos\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.runtimeconfig.dev.json
+C:\Users\akash singh\source\repos\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.dll
+C:\Users\akash singh\source\repos\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.pdb
+C:\Users\akash singh\source\repos\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.csprojAssemblyReference.cache
+C:\Users\akash singh\source\repos\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.Form1.resources
+C:\Users\akash singh\source\repos\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.csproj.GenerateResource.cache
+C:\Users\akash singh\source\repos\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.AssemblyInfoInputs.cache
+C:\Users\akash singh\source\repos\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.AssemblyInfo.cs
+C:\Users\akash singh\source\repos\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.csproj.CoreCompileInputs.cache
+C:\Users\akash singh\source\repos\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.dll
+C:\Users\akash singh\source\repos\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.pdb
+C:\Users\akash singh\source\repos\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.genruntimeconfig.cache

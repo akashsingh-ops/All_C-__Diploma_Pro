@@ -1,0 +1,12 @@
+C:\Users\akash singh\source\repos\Programtry\bin\Debug\netcoreapp3.1\Programtry.exe
+C:\Users\akash singh\source\repos\Programtry\bin\Debug\netcoreapp3.1\Programtry.deps.json
+C:\Users\akash singh\source\repos\Programtry\bin\Debug\netcoreapp3.1\Programtry.runtimeconfig.json
+C:\Users\akash singh\source\repos\Programtry\bin\Debug\netcoreapp3.1\Programtry.runtimeconfig.dev.json
+C:\Users\akash singh\source\repos\Programtry\bin\Debug\netcoreapp3.1\Programtry.dll
+C:\Users\akash singh\source\repos\Programtry\bin\Debug\netcoreapp3.1\Programtry.pdb
+C:\Users\akash singh\source\repos\Programtry\obj\Debug\netcoreapp3.1\Programtry.AssemblyInfoInputs.cache
+C:\Users\akash singh\source\repos\Programtry\obj\Debug\netcoreapp3.1\Programtry.AssemblyInfo.cs
+C:\Users\akash singh\source\repos\Programtry\obj\Debug\netcoreapp3.1\Programtry.csproj.CoreCompileInputs.cache
+C:\Users\akash singh\source\repos\Programtry\obj\Debug\netcoreapp3.1\Programtry.dll
+C:\Users\akash singh\source\repos\Programtry\obj\Debug\netcoreapp3.1\Programtry.pdb
+C:\Users\akash singh\source\repos\Programtry\obj\Debug\netcoreapp3.1\Programtry.genruntimeconfig.cache

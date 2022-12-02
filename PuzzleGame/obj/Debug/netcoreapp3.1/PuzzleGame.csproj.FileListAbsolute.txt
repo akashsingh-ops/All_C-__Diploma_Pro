@@ -1,0 +1,16 @@
+C:\Users\akash singh\source\repos\PuzzleGame\bin\Debug\netcoreapp3.1\PuzzleGame.exe
+C:\Users\akash singh\source\repos\PuzzleGame\bin\Debug\netcoreapp3.1\PuzzleGame.deps.json
+C:\Users\akash singh\source\repos\PuzzleGame\bin\Debug\netcoreapp3.1\PuzzleGame.runtimeconfig.json
+C:\Users\akash singh\source\repos\PuzzleGame\bin\Debug\netcoreapp3.1\PuzzleGame.runtimeconfig.dev.json
+C:\Users\akash singh\source\repos\PuzzleGame\bin\Debug\netcoreapp3.1\PuzzleGame.dll
+C:\Users\akash singh\source\repos\PuzzleGame\bin\Debug\netcoreapp3.1\PuzzleGame.pdb
+C:\Users\akash singh\source\repos\PuzzleGame\obj\Debug\netcoreapp3.1\PuzzleGame.csprojAssemblyReference.cache
+C:\Users\akash singh\source\repos\PuzzleGame\obj\Debug\netcoreapp3.1\PuzzleGame.Form1.resources
+C:\Users\akash singh\source\repos\PuzzleGame\obj\Debug\netcoreapp3.1\PuzzleGame.csproj.GenerateResource.cache
+C:\Users\akash singh\source\repos\PuzzleGame\obj\Debug\netcoreapp3.1\PuzzleGame.AssemblyInfoInputs.cache
+C:\Users\akash singh\source\repos\PuzzleGame\obj\Debug\netcoreapp3.1\PuzzleGame.AssemblyInfo.cs
+C:\Users\akash singh\source\repos\PuzzleGame\obj\Debug\netcoreapp3.1\PuzzleGame.csproj.CoreCompileInputs.cache
+C:\Users\akash singh\source\repos\PuzzleGame\obj\Debug\netcoreapp3.1\PuzzleGame.dll
+C:\Users\akash singh\source\repos\PuzzleGame\obj\Debug\netcoreapp3.1\PuzzleGame.pdb
+C:\Users\akash singh\source\repos\PuzzleGame\obj\Debug\netcoreapp3.1\PuzzleGame.genruntimeconfig.cache
+C:\Users\akash singh\source\repos\PuzzleGame\obj\Debug\netcoreapp3.1\PuzzleGame.Properties.Resources.resources

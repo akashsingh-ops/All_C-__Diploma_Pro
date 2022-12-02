@@ -1,0 +1,15 @@
+C:\Users\akash singh\source\repos\Calculator_\bin\Debug\netcoreapp3.1\Calculator_.exe
+C:\Users\akash singh\source\repos\Calculator_\bin\Debug\netcoreapp3.1\Calculator_.deps.json
+C:\Users\akash singh\source\repos\Calculator_\bin\Debug\netcoreapp3.1\Calculator_.runtimeconfig.json
+C:\Users\akash singh\source\repos\Calculator_\bin\Debug\netcoreapp3.1\Calculator_.runtimeconfig.dev.json
+C:\Users\akash singh\source\repos\Calculator_\bin\Debug\netcoreapp3.1\Calculator_.dll
+C:\Users\akash singh\source\repos\Calculator_\bin\Debug\netcoreapp3.1\Calculator_.pdb
+C:\Users\akash singh\source\repos\Calculator_\obj\Debug\netcoreapp3.1\Calculator_.csprojAssemblyReference.cache
+C:\Users\akash singh\source\repos\Calculator_\obj\Debug\netcoreapp3.1\Calculator_.Form1.resources
+C:\Users\akash singh\source\repos\Calculator_\obj\Debug\netcoreapp3.1\Calculator_.csproj.GenerateResource.cache
+C:\Users\akash singh\source\repos\Calculator_\obj\Debug\netcoreapp3.1\Calculator_.AssemblyInfoInputs.cache
+C:\Users\akash singh\source\repos\Calculator_\obj\Debug\netcoreapp3.1\Calculator_.AssemblyInfo.cs
+C:\Users\akash singh\source\repos\Calculator_\obj\Debug\netcoreapp3.1\Calculator_.csproj.CoreCompileInputs.cache
+C:\Users\akash singh\source\repos\Calculator_\obj\Debug\netcoreapp3.1\Calculator_.dll
+C:\Users\akash singh\source\repos\Calculator_\obj\Debug\netcoreapp3.1\Calculator_.pdb
+C:\Users\akash singh\source\repos\Calculator_\obj\Debug\netcoreapp3.1\Calculator_.genruntimeconfig.cache

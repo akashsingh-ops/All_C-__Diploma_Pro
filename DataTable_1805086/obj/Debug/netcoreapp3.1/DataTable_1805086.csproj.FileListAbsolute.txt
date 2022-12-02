@@ -1,0 +1,6 @@
+C:\Users\akash singh\source\repos\DataTable_1805086\obj\Debug\netcoreapp3.1\DataTable_1805086.csprojAssemblyReference.cache
+C:\Users\akash singh\source\repos\DataTable_1805086\obj\Debug\netcoreapp3.1\DataTable_1805086.Form1.resources
+C:\Users\akash singh\source\repos\DataTable_1805086\obj\Debug\netcoreapp3.1\DataTable_1805086.csproj.GenerateResource.cache
+C:\Users\akash singh\source\repos\DataTable_1805086\obj\Debug\netcoreapp3.1\DataTable_1805086.AssemblyInfoInputs.cache
+C:\Users\akash singh\source\repos\DataTable_1805086\obj\Debug\netcoreapp3.1\DataTable_1805086.AssemblyInfo.cs
+C:\Users\akash singh\source\repos\DataTable_1805086\obj\Debug\netcoreapp3.1\DataTable_1805086.csproj.CoreCompileInputs.cache

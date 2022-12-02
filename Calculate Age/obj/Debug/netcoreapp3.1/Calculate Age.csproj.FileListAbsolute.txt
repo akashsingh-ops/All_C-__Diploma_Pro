@@ -1,0 +1,15 @@
+C:\Users\akash singh\source\repos\Calculate Age\bin\Debug\netcoreapp3.1\Calculate Age.exe
+C:\Users\akash singh\source\repos\Calculate Age\bin\Debug\netcoreapp3.1\Calculate Age.deps.json
+C:\Users\akash singh\source\repos\Calculate Age\bin\Debug\netcoreapp3.1\Calculate Age.runtimeconfig.json
+C:\Users\akash singh\source\repos\Calculate Age\bin\Debug\netcoreapp3.1\Calculate Age.runtimeconfig.dev.json
+C:\Users\akash singh\source\repos\Calculate Age\bin\Debug\netcoreapp3.1\Calculate Age.dll
+C:\Users\akash singh\source\repos\Calculate Age\bin\Debug\netcoreapp3.1\Calculate Age.pdb
+C:\Users\akash singh\source\repos\Calculate Age\obj\Debug\netcoreapp3.1\Calculate Age.csprojAssemblyReference.cache
+C:\Users\akash singh\source\repos\Calculate Age\obj\Debug\netcoreapp3.1\Calculate_Age.btnCal.resources
+C:\Users\akash singh\source\repos\Calculate Age\obj\Debug\netcoreapp3.1\Calculate Age.csproj.GenerateResource.cache
+C:\Users\akash singh\source\repos\Calculate Age\obj\Debug\netcoreapp3.1\Calculate Age.AssemblyInfoInputs.cache
+C:\Users\akash singh\source\repos\Calculate Age\obj\Debug\netcoreapp3.1\Calculate Age.AssemblyInfo.cs
+C:\Users\akash singh\source\repos\Calculate Age\obj\Debug\netcoreapp3.1\Calculate Age.csproj.CoreCompileInputs.cache
+C:\Users\akash singh\source\repos\Calculate Age\obj\Debug\netcoreapp3.1\Calculate Age.dll
+C:\Users\akash singh\source\repos\Calculate Age\obj\Debug\netcoreapp3.1\Calculate Age.pdb
+C:\Users\akash singh\source\repos\Calculate Age\obj\Debug\netcoreapp3.1\Calculate Age.genruntimeconfig.cache

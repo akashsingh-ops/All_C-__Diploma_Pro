@@ -1,0 +1,13 @@
+C:\Users\akash singh\source\repos\Jalish\bin\Debug\netcoreapp3.1\Jalish.exe
+C:\Users\akash singh\source\repos\Jalish\bin\Debug\netcoreapp3.1\Jalish.deps.json
+C:\Users\akash singh\source\repos\Jalish\bin\Debug\netcoreapp3.1\Jalish.runtimeconfig.json
+C:\Users\akash singh\source\repos\Jalish\bin\Debug\netcoreapp3.1\Jalish.runtimeconfig.dev.json
+C:\Users\akash singh\source\repos\Jalish\bin\Debug\netcoreapp3.1\Jalish.dll
+C:\Users\akash singh\source\repos\Jalish\bin\Debug\netcoreapp3.1\Jalish.pdb
+C:\Users\akash singh\source\repos\Jalish\obj\Debug\netcoreapp3.1\Jalish.csprojAssemblyReference.cache
+C:\Users\akash singh\source\repos\Jalish\obj\Debug\netcoreapp3.1\Jalish.AssemblyInfoInputs.cache
+C:\Users\akash singh\source\repos\Jalish\obj\Debug\netcoreapp3.1\Jalish.AssemblyInfo.cs
+C:\Users\akash singh\source\repos\Jalish\obj\Debug\netcoreapp3.1\Jalish.csproj.CoreCompileInputs.cache
+C:\Users\akash singh\source\repos\Jalish\obj\Debug\netcoreapp3.1\Jalish.dll
+C:\Users\akash singh\source\repos\Jalish\obj\Debug\netcoreapp3.1\Jalish.pdb
+C:\Users\akash singh\source\repos\Jalish\obj\Debug\netcoreapp3.1\Jalish.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\akash singh\source\repos\Student\bin\Debug\netcoreapp3.1\Student.exe
+C:\Users\akash singh\source\repos\Student\bin\Debug\netcoreapp3.1\Student.deps.json
+C:\Users\akash singh\source\repos\Student\bin\Debug\netcoreapp3.1\Student.runtimeconfig.json
+C:\Users\akash singh\source\repos\Student\bin\Debug\netcoreapp3.1\Student.runtimeconfig.dev.json
+C:\Users\akash singh\source\repos\Student\bin\Debug\netcoreapp3.1\Student.dll
+C:\Users\akash singh\source\repos\Student\bin\Debug\netcoreapp3.1\Student.pdb
+C:\Users\akash singh\source\repos\Student\obj\Debug\netcoreapp3.1\Student.csprojAssemblyReference.cache
+C:\Users\akash singh\source\repos\Student\obj\Debug\netcoreapp3.1\Student.AssemblyInfoInputs.cache
+C:\Users\akash singh\source\repos\Student\obj\Debug\netcoreapp3.1\Student.AssemblyInfo.cs
+C:\Users\akash singh\source\repos\Student\obj\Debug\netcoreapp3.1\Student.csproj.CoreCompileInputs.cache
+C:\Users\akash singh\source\repos\Student\obj\Debug\netcoreapp3.1\Student.dll
+C:\Users\akash singh\source\repos\Student\obj\Debug\netcoreapp3.1\Student.pdb
+C:\Users\akash singh\source\repos\Student\obj\Debug\netcoreapp3.1\Student.genruntimeconfig.cache

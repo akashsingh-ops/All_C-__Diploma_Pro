@@ -1,0 +1,4 @@
+C:\Users\akash singh\source\repos\costomer\obj\Debug\netcoreapp3.1\costomer.csprojAssemblyReference.cache
+C:\Users\akash singh\source\repos\costomer\obj\Debug\netcoreapp3.1\costomer.AssemblyInfoInputs.cache
+C:\Users\akash singh\source\repos\costomer\obj\Debug\netcoreapp3.1\costomer.AssemblyInfo.cs
+C:\Users\akash singh\source\repos\costomer\obj\Debug\netcoreapp3.1\costomer.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+C:\Users\akash singh\source\repos\MyTextEditor\bin\Debug\netcoreapp3.1\MyTextEditor.exe
+C:\Users\akash singh\source\repos\MyTextEditor\bin\Debug\netcoreapp3.1\MyTextEditor.deps.json
+C:\Users\akash singh\source\repos\MyTextEditor\bin\Debug\netcoreapp3.1\MyTextEditor.runtimeconfig.json
+C:\Users\akash singh\source\repos\MyTextEditor\bin\Debug\netcoreapp3.1\MyTextEditor.runtimeconfig.dev.json
+C:\Users\akash singh\source\repos\MyTextEditor\bin\Debug\netcoreapp3.1\MyTextEditor.dll
+C:\Users\akash singh\source\repos\MyTextEditor\bin\Debug\netcoreapp3.1\MyTextEditor.pdb
+C:\Users\akash singh\source\repos\MyTextEditor\obj\Debug\netcoreapp3.1\MyTextEditor.Form1.resources
+C:\Users\akash singh\source\repos\MyTextEditor\obj\Debug\netcoreapp3.1\MyTextEditor.csproj.GenerateResource.cache
+C:\Users\akash singh\source\repos\MyTextEditor\obj\Debug\netcoreapp3.1\MyTextEditor.AssemblyInfoInputs.cache
+C:\Users\akash singh\source\repos\MyTextEditor\obj\Debug\netcoreapp3.1\MyTextEditor.AssemblyInfo.cs
+C:\Users\akash singh\source\repos\MyTextEditor\obj\Debug\netcoreapp3.1\MyTextEditor.csproj.CoreCompileInputs.cache
+C:\Users\akash singh\source\repos\MyTextEditor\obj\Debug\netcoreapp3.1\MyTextEditor.dll
+C:\Users\akash singh\source\repos\MyTextEditor\obj\Debug\netcoreapp3.1\MyTextEditor.pdb
+C:\Users\akash singh\source\repos\MyTextEditor\obj\Debug\netcoreapp3.1\MyTextEditor.genruntimeconfig.cache

@@ -1,0 +1,6 @@
+C:\Users\akash singh\source\repos\PuzzelGame\obj\Debug\netcoreapp3.1\PuzzelGame.csprojAssemblyReference.cache
+C:\Users\akash singh\source\repos\PuzzelGame\obj\Debug\netcoreapp3.1\PuzzelGame.Form1.resources
+C:\Users\akash singh\source\repos\PuzzelGame\obj\Debug\netcoreapp3.1\PuzzelGame.csproj.GenerateResource.cache
+C:\Users\akash singh\source\repos\PuzzelGame\obj\Debug\netcoreapp3.1\PuzzelGame.AssemblyInfoInputs.cache
+C:\Users\akash singh\source\repos\PuzzelGame\obj\Debug\netcoreapp3.1\PuzzelGame.AssemblyInfo.cs
+C:\Users\akash singh\source\repos\PuzzelGame\obj\Debug\netcoreapp3.1\PuzzelGame.csproj.CoreCompileInputs.cache

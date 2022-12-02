@@ -1,0 +1,13 @@
+C:\Users\akash singh\source\repos\GuessTheNumber\bin\Debug\netcoreapp3.1\GuessTheNumber.exe
+C:\Users\akash singh\source\repos\GuessTheNumber\bin\Debug\netcoreapp3.1\GuessTheNumber.deps.json
+C:\Users\akash singh\source\repos\GuessTheNumber\bin\Debug\netcoreapp3.1\GuessTheNumber.runtimeconfig.json
+C:\Users\akash singh\source\repos\GuessTheNumber\bin\Debug\netcoreapp3.1\GuessTheNumber.runtimeconfig.dev.json
+C:\Users\akash singh\source\repos\GuessTheNumber\bin\Debug\netcoreapp3.1\GuessTheNumber.dll
+C:\Users\akash singh\source\repos\GuessTheNumber\bin\Debug\netcoreapp3.1\GuessTheNumber.pdb
+C:\Users\akash singh\source\repos\GuessTheNumber\obj\Debug\netcoreapp3.1\GuessTheNumber.csprojAssemblyReference.cache
+C:\Users\akash singh\source\repos\GuessTheNumber\obj\Debug\netcoreapp3.1\GuessTheNumber.AssemblyInfoInputs.cache
+C:\Users\akash singh\source\repos\GuessTheNumber\obj\Debug\netcoreapp3.1\GuessTheNumber.AssemblyInfo.cs
+C:\Users\akash singh\source\repos\GuessTheNumber\obj\Debug\netcoreapp3.1\GuessTheNumber.csproj.CoreCompileInputs.cache
+C:\Users\akash singh\source\repos\GuessTheNumber\obj\Debug\netcoreapp3.1\GuessTheNumber.dll
+C:\Users\akash singh\source\repos\GuessTheNumber\obj\Debug\netcoreapp3.1\GuessTheNumber.pdb
+C:\Users\akash singh\source\repos\GuessTheNumber\obj\Debug\netcoreapp3.1\GuessTheNumber.genruntimeconfig.cache
